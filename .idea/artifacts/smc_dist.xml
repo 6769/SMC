@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="smc_dist">
+    <output-path>$PROJECT_DIR$/out/artifacts/smc_dist</output-path>
+    <root id="archive" name="SMC_build.jar">
+      <element id="module-output" name="SMC_build" />
+    </root>
+  </artifact>
+</component>
